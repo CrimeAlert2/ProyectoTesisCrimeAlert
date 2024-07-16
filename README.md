@@ -29,6 +29,6 @@ Este proyecto de tesis consiste en el desarrollo de una aplicación móvil que p
 - **Notificaciones Push:** Firebase Cloud Messaging (FCM)
 - **Mapas:** Google Maps API
 
-## Tecnologías Utilizadas
+## Desarrolladores
 - **Gustavo Alonso Farfan Navarro:** N00236543@upn.pe
 - **Raúl Yoshiaki Kuga Llagas:** N00240677@upn.pe
